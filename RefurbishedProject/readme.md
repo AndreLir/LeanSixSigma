@@ -74,28 +74,6 @@ A través del análisis de capacidad del proceso (**Cp, Cpk**) y la simulación 
 │   └── capability_analysis.py
 └── README.md                 # Este archivo
 ```
-
----
-
-## 🚀 Cómo Ejecutar el Proyecto
-
-1. Clonar el repositorio:
-
-   ```bash
-   git clone https://github.com/usuario/proyecto-lean-six-sigma.git
-   cd proyecto-lean-six-sigma
-   ```
-2. Instalar dependencias:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Ejecutar el análisis de capacidad:
-
-   ```bash
-   python src/capability_analysis.py
-   ```
-
 ---
 
 ## 📈 Conclusión
