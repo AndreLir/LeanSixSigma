@@ -110,7 +110,7 @@ Este proyecto demuestra cómo la combinación de **Lean Six Sigma + Ciencia de D
 
 ## 👤 Autor
 
-**Andres** – Ingeniero Industrial | Lean Six Sigma | Data & Analytics
+**Andres Ortiz** – Ingeniero Industrial | Lean Six Sigma | Data & Analytics
 
 
 ---
