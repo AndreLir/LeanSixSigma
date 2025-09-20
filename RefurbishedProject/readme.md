@@ -1,5 +1,3 @@
-Perfecto 🚀, aquí tienes un **README.md** completo y profesional en **Markdown** para tu proyecto, estructurado tal como suele hacerse en GitHub:
-
 ---
 
 # 🏭 Proyecto Lean Six Sigma – Optimización de Proceso de Remodelación de Equipos
